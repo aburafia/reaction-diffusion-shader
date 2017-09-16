@@ -7,4 +7,4 @@ AmplifyBloomとPostprocessingのimageeffect系が入っていますが、有料�
 
 また、spoutで外部にtexture転送しています。プロジェクションマッピングを行う為です。
 
-![画面イメージ](https://github.com/aburafia/reaction-diffusion-shader/blob/master/screenshot.png "画面イメージ")
+![ロゴイメージ](https://github.com/aburafia/kankaku_logo/blob/master/%E3%83%AD%E3%82%B4.png "ロゴイメージ")
