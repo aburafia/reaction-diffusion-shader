@@ -4,13 +4,15 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: StepMaterial
   m_Shader: {fileID: 4800000, guid: ae066a50b56a4a84bb9f0a78ccc5fb8f, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
@@ -74,8 +76,8 @@ Material:
     - _distance: 1
     - _du: 0.2
     - _dv: 0.1
-    - _f: 0.0792
-    - _k: 0.0609
+    - _f: 0.084
+    - _k: 0.0607
     - _size: 1024
     - _time: 1
     - _v1: 4.27
